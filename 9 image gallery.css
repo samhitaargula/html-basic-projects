@@ -1,0 +1,36 @@
+body{
+	padding-top: 70px;
+}
+
+
+/*<pre class="prettyprint linenums">&lt;script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"&gt;&lt;/script&gt;<br></pre>*/
+
+.navbar-inverse .navbar-nav>li>a{
+	color: white;
+}
+
+.navbar-inverse .navbar-brand{
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.jumbotron{
+  color: #003366;
+	background-color: #b0e0e6;
+  height: 200px;
+  padding: auto;
+}
+
+/*.jumbotron {
+  background: url("https://www.sleekcover.com/covers/amazing-digital-art-tiger-facebook-cover.jpg")
+  no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 200px;
+  margin-top: 0px;
+  }
+*/
